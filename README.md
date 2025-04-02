@@ -1,7 +1,7 @@
 # TEFNUT
 Open-source, low-power temperature, humidity, and VOC sensor with E-Ink display and LoRa connectivity. Battery-powered and designed for both indoor and outdoor use, this device is ideal for smart homes, IoT applications, and environmental monitoring. Easy deployment, high efficiency, and full customization.
 
-DESCRIPTION
+**DESCRIPTION**
 
 This project aims to create a simple, low-power temperature, humidity, and VOC sensor with long-range connectivity. At its core, it features an E-Ink display for excellent readability even in direct sunlight, while LoRa communication ensures seamless integration with home automation systems and other IoT applications.
 
@@ -11,6 +11,6 @@ Best of all, it’s fully open source—anyone can modify, improve, or adapt it 
 
 If this sounds interesting, stay tuned for updates!
 
-REPOSITORY MAP
+**REPOSITORY MAP**
 
-CONTRIBUTORS
+**CONTRIBUTORS**
